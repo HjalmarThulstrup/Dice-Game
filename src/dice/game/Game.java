@@ -67,6 +67,11 @@ public class Game {
 //            playerarr.add(new AI("com" + i));
 //        }
 
+
+//        for (int i = 0; i < 20; i++) {
+//            playerarr.add(new AI("com" + i));
+//        }
+
         outerloop:
         do {
             for (Player player : playerarr) {
